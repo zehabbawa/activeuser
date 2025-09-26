@@ -19,7 +19,7 @@
         "username": "user1",
         "password": "pass123",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
